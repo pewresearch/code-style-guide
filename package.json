@@ -2,6 +2,7 @@
   "name": "@pewresearch/code-style-guide",
   "version": "1.0.0",
   "description": "A mostly reasonable approach to JavaScript and CSS tailored for WordPress and Gutenberg development.",
+  "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
