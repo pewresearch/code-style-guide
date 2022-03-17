@@ -5,7 +5,7 @@ module.exports = {
 		node: true,
 	},
 	parser: 'babel-eslint',
-	extends: ['airbnb', 'prettier', 'prettier/react'],
+	extends: ['airbnb', 'prettier'],
 	globals: {
 		Atomics: 'readonly',
 		SharedArrayBuffer: 'readonly',
