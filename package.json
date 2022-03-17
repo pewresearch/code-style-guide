@@ -1,12 +1,12 @@
 {
-  "name": "@pewresearch/code-style-guide",
+  "name": "@pewresearch/eslint-config-pewresearch",
   "version": "1.0.0",
-  "description": "A mostly reasonable approach to JavaScript and CSS tailored for WordPress and Gutenberg development.",
+  "description": "A mostly reasonable approach to JavaScript tailored for WordPress and Gutenberg development.",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/pewresearch/code-style-guide.git"
+    "url": "https://github.com/pewresearch/eslint-config-pewresearch.git"
   },
   "keywords": [
     "style guide",
@@ -25,9 +25,9 @@
   "author": "Seth Rubenstein <surbenstein@pewresearch.org> (https://www.pewresearch.org)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pewresearch/code-style-guide/issues"
+    "url": "https://github.com/pewresearch/eslint-config-pewresearch/issues"
   },
-  "homepage": "https://github.com/pewresearch/code-style-guide",
+  "homepage": "https://github.com/pewresearch/eslint-config-pewresearch",
   "devDependencies": {
     "eslint": "^8.11.0",
     "eslint-config-airbnb": "^19.0.4",
