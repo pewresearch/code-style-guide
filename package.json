@@ -1,6 +1,6 @@
 {
   "name": "@pewresearch/eslint-config-pewresearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mostly reasonable approach to JavaScript tailored for WordPress and Gutenberg development.",
   "main": "index.js",
   "scripts": {},
