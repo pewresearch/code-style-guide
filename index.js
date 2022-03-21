@@ -1,25 +1,12 @@
 module.exports = {
-	env: {
-		es6: true,
-		browser: true,
-		node: true,
-	},
-	parser: 'babel-eslint',
-	extends: ['airbnb'],
-	globals: {
-		Atomics: 'readonly',
-		SharedArrayBuffer: 'readonly',
-	},
-	parserOptions: {
-		ecmaFeatures: {
-			jsx: true,
-			modules: true,
-		},
-		ecmaVersion: 2018,
-		sourceType: 'module',
-	},
-	plugins: ['react'],
+	extends: ["airbnb", "prettier"],
+	// globals: {
+	// 	Atomics: 'readonly',
+	// 	SharedArrayBuffer: 'readonly',
+	// },
+	plugins: ['prettier', 'react'],
 	rules: {
+		'prettier/prettier': 'error',
 		'yoda': ["error", "always"],
 		'function-paren-newline': ["error"],
 		'comma-dangle': ["error", "only-multiline"],
