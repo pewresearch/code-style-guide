@@ -1,11 +1,11 @@
 {
 	"name": "@pewresearch/eslint-config",
 	"version": "1.0.0",
-	"description": "Pew Research Center's Prettier configuration",
+	"description": "Pew Research Center's eslint configuration",
 	"main": "index.json",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pewresearch/eslint-config.git"
+		"url": "https://github.com/pewresearch/code-style-guide.git"
 	},
 	"keywords": [
 		"style guide",
