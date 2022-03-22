@@ -16,9 +16,8 @@ module.exports = {
 		}],
 		// React
 		'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
-		// 'react/forbid-prop-types': [0, { forbid: ['any'] }],
 		'react/prop-types': 0,
 		'react/react-in-jsx-scope': 0,
-		// 'react/jsx-props-no-spreading': 0,
+		'react/jsx-props-no-spreading': 0,
 	},
 };
