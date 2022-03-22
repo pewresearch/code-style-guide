@@ -14,5 +14,6 @@ module.exports = {
 			message: "Use @wordpress/element instead."
 		}],
 		"indent": ["error", "tab"],
+		"react/react-in-jsx-scope": "off",
 	},
 };
