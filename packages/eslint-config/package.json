@@ -1,6 +1,6 @@
 {
 	"name": "@pewresearch/eslint-config",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Pew Research Center's eslint configuration",
 	"main": "index.json",
 	"repository": {
@@ -27,7 +27,6 @@
 	},
 	"homepage": "https://github.com/pewresearch/code-style-guide",
 	"dependencies": {
-		"@wordpress/eslint-plugin": "^11.1.0",
 		"eslint": "^8.11.0",
 		"eslint-config-airbnb": "^19.0.4",
 		"eslint-config-prettier": "^8.5.0",
