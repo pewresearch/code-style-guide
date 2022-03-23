@@ -12,7 +12,7 @@ module.exports = {
 		'import/no-extraneous-dependencies': 0,
 		'no-restricted-imports': ["error", {
 			name: "react",
-			message: "Use @wordpress/element instead."
+			message: "You are developing an application for use inside WordPress, use @wordpress/element instead."
 		}],
 		// React
 		'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }],
