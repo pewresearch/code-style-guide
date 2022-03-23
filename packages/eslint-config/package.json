@@ -1,6 +1,6 @@
 {
 	"name": "@pewresearch/eslint-config",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Pew Research Center's eslint configuration",
 	"main": "index.json",
 	"repository": {
