@@ -1,5 +1,5 @@
 module.exports = {
-	extends: ["airbnb", "plugin:@wordpress/eslint-plugin/recommended", "prettier"],
+	extends: ["airbnb", "prettier"],
 	plugins: ['prettier', 'react'],
 	rules: {
 		'prettier/prettier': 'error',
