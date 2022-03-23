@@ -24,7 +24,8 @@
 	"author": "Seth Rubenstein <srubenstein@pewresearch.org> (https://www.pewresearch.org)",
 	"license": "MIT",
 	"bugs": {
-	  "url": "https://github.com/pewresearch/code-style-guide/issues"
+		"url": "https://github.com/pewresearch/code-style-guide/issues"
 	},
-	"homepage": "https://github.com/pewresearch/code-style-guide"
-  }
+	"homepage": "https://github.com/pewresearch/code-style-guide",
+	"dependencies": {}
+}
