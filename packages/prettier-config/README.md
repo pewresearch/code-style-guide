@@ -4,5 +4,5 @@
 1. `yarn add @pewresearch/prettier-config`
 2. In your package.json add the following:
  ```JSON
-  "prettier": "@pewresearch/prettier-config",
+  "prettier": "@pewresearch/prettier-config"
   ```
