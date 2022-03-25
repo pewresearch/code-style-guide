@@ -6,7 +6,7 @@ This style guide is mostly based on the standards that are currently prevalent i
 
 Other Style Guides
   - [Javascript](https://github.com/pewresearch/code-style-guide/tree/main/javascript)
-  - [CSS in Javascript](https://github.com/pewresearch/code-style-guide/tree/main/css-in-javascript)
+  - [CSS-in-Javascript](https://github.com/pewresearch/code-style-guide/tree/main/css-in-javascript)
   - [PHP](https://github.com/pewresearch/code-style-guide/tree/main/php)
   - [CSS & Sass](https://github.com/pewresearch/code-style-guide/tree/main/scss)
 
