@@ -1,4 +1,4 @@
-# Airbnb CSS / Sass Styleguide
+# Pew Research CSS / SASS / SCSS Styleguide
 
 *A mostly reasonable approach to CSS and Sass*
 
