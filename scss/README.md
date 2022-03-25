@@ -2,6 +2,13 @@
 
 *A mostly reasonable approach to CSS and Sass*
 
+
+### Other Style Guides
+  - [JavaScript](https://github.com/pewresearch/code-style-guide/tree/main/javascript)
+  - [React](https://github.com/pewresearch/code-style-guide/tree/main/react)
+  - [PHP](https://github.com/pewresearch/code-style-guide/tree/main/php)
+  - [CSS-in-JavaScript](https://github.com/pewresearch/code-style-guide/tree/main/css-in-javascript)
+
 ## Table of Contents
 
 1. [Terminology](#terminology)
