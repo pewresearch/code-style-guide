@@ -1,4 +1,4 @@
-# Pew Research JavaScript Style Guide() {
+# function Pew Research JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript and CSS tailored for WordPress and Gutenberg development. A combination of Airbnb and WordPress best practices and style guides*
 
