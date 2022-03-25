@@ -3,7 +3,7 @@
 *A mostly reasonable approach to CSS-in-JavaScript*
 
 Other Style Guides
-  - [Javascript](https://github.com/pewresearch/code-style-guide/tree/main/javascript)
+  - [JavaScript](https://github.com/pewresearch/code-style-guide/tree/main/javascript)
   - [React](https://github.com/pewresearch/code-style-guide/tree/main/react)
   - [PHP](https://github.com/pewresearch/code-style-guide/tree/main/php)
   - [CSS & Sass](https://github.com/pewresearch/code-style-guide/tree/main/scss)
