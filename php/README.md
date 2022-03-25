@@ -1,2 +1,2 @@
-# <?php Pew Research PHP Code Style Guide() {
+# Pew Research PHP Style Guide() {
 ... More TK
