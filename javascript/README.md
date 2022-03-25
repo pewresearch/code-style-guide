@@ -4,9 +4,8 @@
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
 
-Other Style Guides
+### Other Style Guides
 
-  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
   - [React](https://github.com/pewresearch/code-style-guide/tree/main/react)
   - [PHP](https://github.com/pewresearch/code-style-guide/tree/main/php)
   - [CSS-in-JavaScript](https://github.com/pewresearch/code-style-guide/tree/main/css-in-javascript)
