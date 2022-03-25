@@ -1,4 +1,4 @@
-# Pew Research React/JSX Style Guide () {
+# Pew Research React/JSX Style Guide() {
 
 *A mostly reasonable approach to React and JSX for Gutenberg and WordPress*
 
