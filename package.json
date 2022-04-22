@@ -1,6 +1,6 @@
 {
 	"name": "@pewresearch/code-style-guide",
-	"version": "1.0.0",
+	"version": "1.0.6",
 	"description": "Pew Research Center's code style guide and configuration",
 	"main": "index.js",
 	"repository": {
